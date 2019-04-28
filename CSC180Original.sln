@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic8BallOProj", "Magic8Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingOProj", "NumberGuessingOProj\NumberGuessingOProj.csproj", "{251E8FBD-6E6F-4F2F-B67A-F4AA9148088D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO2OProj", "FileIO2OProj\FileIO2OProj.csproj", "{039CF861-BFB9-46F4-937D-58F8449F62A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,5 +39,9 @@ Global
 		{251E8FBD-6E6F-4F2F-B67A-F4AA9148088D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{251E8FBD-6E6F-4F2F-B67A-F4AA9148088D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{251E8FBD-6E6F-4F2F-B67A-F4AA9148088D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039CF861-BFB9-46F4-937D-58F8449F62A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039CF861-BFB9-46F4-937D-58F8449F62A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039CF861-BFB9-46F4-937D-58F8449F62A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039CF861-BFB9-46F4-937D-58F8449F62A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
