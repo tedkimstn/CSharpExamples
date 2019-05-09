@@ -79,6 +79,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortListOProj", "SortListOP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDictionaryOProj", "SortedDictionaryOProj\SortedDictionaryOProj.csproj", "{E74C7510-DF4A-489F-AF93-1463B95DE3AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTrimOProj", "StringTrimOProj\StringTrimOProj.csproj", "{B2BCF99C-0F03-4CC3-A56E-0C350DE81E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchOProj", "SwitchOProj\SwitchOProj.csproj", "{583F246F-EEE5-4593-9BEE-916627A1D202}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -241,5 +245,13 @@ Global
 		{E74C7510-DF4A-489F-AF93-1463B95DE3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E74C7510-DF4A-489F-AF93-1463B95DE3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E74C7510-DF4A-489F-AF93-1463B95DE3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BCF99C-0F03-4CC3-A56E-0C350DE81E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BCF99C-0F03-4CC3-A56E-0C350DE81E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BCF99C-0F03-4CC3-A56E-0C350DE81E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BCF99C-0F03-4CC3-A56E-0C350DE81E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583F246F-EEE5-4593-9BEE-916627A1D202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583F246F-EEE5-4593-9BEE-916627A1D202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583F246F-EEE5-4593-9BEE-916627A1D202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583F246F-EEE5-4593-9BEE-916627A1D202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
