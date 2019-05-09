@@ -75,6 +75,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceOProj", "Reference
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedOProj", "SealedOProj\SealedOProj.csproj", "{383059DF-44F8-43E8-A634-8583BB4B156D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortListOProj", "SortListOProj\SortListOProj.csproj", "{E50D6455-81B4-4419-99AF-67C473049E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDictionaryOProj", "SortedDictionaryOProj\SortedDictionaryOProj.csproj", "{E74C7510-DF4A-489F-AF93-1463B95DE3AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,5 +233,13 @@ Global
 		{383059DF-44F8-43E8-A634-8583BB4B156D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383059DF-44F8-43E8-A634-8583BB4B156D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383059DF-44F8-43E8-A634-8583BB4B156D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50D6455-81B4-4419-99AF-67C473049E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50D6455-81B4-4419-99AF-67C473049E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50D6455-81B4-4419-99AF-67C473049E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50D6455-81B4-4419-99AF-67C473049E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74C7510-DF4A-489F-AF93-1463B95DE3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74C7510-DF4A-489F-AF93-1463B95DE3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74C7510-DF4A-489F-AF93-1463B95DE3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74C7510-DF4A-489F-AF93-1463B95DE3AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
